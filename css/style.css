@@ -9,19 +9,19 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-h1 {
+.meetable-h1 {
     font-size: 5em;
     font-weight: 800;
     color: var(--main_color);
 }
 
-h2 {
+.meetable-h2 {
     font-size: 2em;
     font-weight: 800;
     color: var(--accent1);
 }
 
-p {
+.meetable-p {
     font-weight: 300;
 }
 
@@ -63,4 +63,8 @@ p {
 .logo {
     height: 20px;
     width:10px
+}
+.flexblock.clients img{
+    height: 100x;
+    width: 150px;
 }
